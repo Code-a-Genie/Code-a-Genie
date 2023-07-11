@@ -2,7 +2,7 @@
 ![Biggbhen GitHub Banner](./assets/home-office-interior-room-working-with-pc/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Priest;Software+Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Genie;Software+Engineer">
 <br>
 Hi there, 👋🏽&nbsp I'm a Software engineer that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use digital experiences.
 Feel free to reach out to me!
@@ -11,10 +11,10 @@ Feel free to reach out to me!
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">
-    <a href="https://www.linkedin.com/in/biggkodes/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
-    <a href="mailto:benstar531@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
-    <a href="https://twitter.com/bigg_kodes_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>
-    <a href="https://www.codewars.com/users/biggKodes"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+    <a href="https://www.linkedin.com/in/ginikachukwu-soluchi-nwibe-8010a5216"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
+    <a href="mailto:nwibeg@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
+    <a href="https://twitter.com/kenzenia"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>
+    <a href="https://www.codewars.com/users/Code-a-Genie"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
   
  <!-- Stats -->
