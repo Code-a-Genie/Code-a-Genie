@@ -1,5 +1,5 @@
 
-![Biggbhen GitHub Banner](./assets/home-office-interior-room-working-with-pc/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
+![Genie GitHub Banner](./assets/home-office-interior-room-working-with-pc/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Genie;Software+Engineer">
