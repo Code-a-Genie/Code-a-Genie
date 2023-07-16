@@ -4,8 +4,14 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Genie;Software+Engineer;Technical+Writer">
 <br>
-Hi there, 👋🏽&nbsp I'm a Software engineer that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use digital experiences.
-Feel free to reach out to me!
+Hi there, 👋🏽&nbsp I'm a Software engineer that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use softwares that make your everyday life and that of your customers much easier. 
+    <br>
+    Due to my background in marketing, content writing and design, I am able to fully understand the needs of the end user and create and unforgettable experience.  I also build websites that are highly conversion rate optimized.
+    <br>
+    Working with me ensures that you get a fully functional software built to make the user's life easier and also increase conversions.
+     <br>
+    I also offer 3 free solid content marketing and SEO advice for your softwares.
+Feel free to reach out to me today!
 </p>
 
 <!-- SOCIALS -->
